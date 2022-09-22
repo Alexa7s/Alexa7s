@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alexa7s
 - 👀 I’m interested in Books & Video Games
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on discord Alex7s#5397
 
 <!---
